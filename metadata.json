@@ -1,0 +1,6 @@
+{
+  "name": "Abdulaziz — AI Tishnik Boy",
+  "description": "12 yoshli IT va sun’iy intellekt ishqibozi Abdulazizning zamonaviy, interaktiv shaxsiy portfoliom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
